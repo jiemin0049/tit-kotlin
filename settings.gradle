@@ -1,0 +1,4 @@
+rootProject.name = 'tit-kotlin'
+include(
+        'tit-kotlin'
+)
